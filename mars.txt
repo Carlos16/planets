@@ -2,4 +2,4 @@
 Cold and dry, bu everything is my favorite color
 The two moons may be a problem for Wolfam
 But the Mummy will appreciate the lack of humidity
-This line is added in our home copy
+We remove the conflict on this line
